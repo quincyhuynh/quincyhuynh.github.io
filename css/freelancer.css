@@ -9,6 +9,7 @@ body {
 }
 
 
+
 p {
     font-size: 20px;
 }
@@ -24,7 +25,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    outline: 1;
+    outline: 0;
     color: #fff;
 }
 
@@ -32,6 +33,7 @@ a {
     font-size: 20px;
 
 }
+
 
 h1,
 h2,
@@ -89,7 +91,7 @@ hr.star-primary:after {
 
 .background {
     background: url(http://www.psdgraphics.com/file/scratched-texture.jpg);
-    -webkit-filter: blur(2.5px);
+    -webkit-filter: blur(0px);
 }
 
 header {
