@@ -58,31 +58,36 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #2c3e50;
+    border-color: #C4C9CE;
 }
 
 hr.star-light:after {
-    color: #DAA520;
-    background-color: #2c3e50;
+    color: #2c3e50;
+    background-color: #C4C9CE;
 }
 
 hr.star-primary {
-    border-color: #DAA520;
+    border-color: #fff;
 }
 
 hr.star-primary:after {
     color: #2c3e50;
-    background-color: #DAA520;
+    background-color: #fff;
 }
 
 .img-centered {
     margin: 0 auto;
 }
 
+.background {
+    background: url(http://www.psdgraphics.com/file/scratched-texture.jpg);
+    -webkit-filter: blur(2.5px);
+}
+
 header {
     text-align: center;
-    color: #2c3e50;
-    background: #DAA520;
+    color: #fff;
+    
 }
 
 header .container {
@@ -180,8 +185,7 @@ section h2 {
 }
 
 section.success {
-    color: #2c3e50;
-    background: #DAA520;
+    color: #fff;
 }
 
 @media(max-width:767px) {
@@ -211,14 +215,14 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(24,188,156,.9);
+    background: #fff;
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
+    opacity: 0.8;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
@@ -256,6 +260,7 @@ section.success {
     border: solid 2px #fff;
     font-size: 20px;
     color: #fff;
+    opacity: 1;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -265,7 +270,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #2c3e50;
     background: #fff;
 }
 
@@ -318,7 +323,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #fff;
 }
 
 form .row:first-child .floating-label-form-group {
