@@ -8,6 +8,7 @@ body {
     overflow-x: hidden;
 }
 
+
 p {
     font-size: 20px;
 }
@@ -16,13 +17,20 @@ p.small {
     font-size: 16px;
 }
 
+
+
 a,
 a:hover,
 a:focus,
 a:active,
 a.active {
-    outline: 0;
-    color: #2c3e50;
+    outline: 1;
+    color: #fff;
+}
+
+a {
+    font-size: 20px;
+
 }
 
 h1,
