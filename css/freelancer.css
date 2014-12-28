@@ -8,6 +8,8 @@ body {
     overflow-x: hidden;
 }
 
+
+
 p {
     font-size: 20px;
 }
@@ -16,14 +18,22 @@ p.small {
     font-size: 16px;
 }
 
+
+
 a,
 a:hover,
 a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #2c3e50;
+    color: #fff;
 }
+
+a {
+    font-size: 20px;
+
+}
+
 
 h1,
 h2,
@@ -81,7 +91,7 @@ hr.star-primary:after {
 
 .background {
     background: url(http://www.psdgraphics.com/file/scratched-texture.jpg);
-    -webkit-filter: blur(2.5px);
+    -webkit-filter: blur(0px);
 }
 
 header {
