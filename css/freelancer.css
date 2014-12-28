@@ -189,9 +189,23 @@ section {
     padding: 100px 0;
 }
 
+section.contact {
+    background-color: #1F2B38;
+    color: #6B7884;
+}
+
 section h2 {
     margin: 0;
     font-size: 3em;
+}
+
+form.contact-form {
+    color: black;
+}
+
+h2.contact-text {
+    color:white;
+    margin-bottom: 100px;
 }
 
 section.success {
