@@ -365,3 +365,6 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+#ugrad_courses tr.r1 { font-weight: bold; }
+#grad_courses tr.r1 { font-weight: bold; }
