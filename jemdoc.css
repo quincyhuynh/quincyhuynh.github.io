@@ -338,13 +338,14 @@ img.eqwl {
 table {
     border: 2px solid black;
     border-collapse: collapse;
+    text-align: left;
 }
 
 td {
     padding: 2px;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    text-align: center;
+    text-align: left;
     border: 1px solid gray;
 }
 
@@ -366,5 +367,5 @@ table.imgtable, table.imgtable td {
     text-align: left;
 }
 
-#ugrad_courses tr.r1 { font-weight: bold; }
-#grad_courses tr.r1 { font-weight: bold; }
+#ugrad_courses tr.r1 { font-weight: bold; text-align: left;}
+#grad_courses tr.r1 { font-weight: bold; text-align: left;}
