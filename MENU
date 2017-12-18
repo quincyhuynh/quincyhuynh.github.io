@@ -1,11 +1,5 @@
 menu
-    Home                [index.html]
-    Research			[research.html]
-	Publication         [publications.html]
+    About                [index.html]
 	Teaching			[teaching.html]
 	Courses				[courses.html]
-    Activities			[activities.html]
-	
-usefull links
-   Jemdoc   		[http://jemdoc.jaboc.net/]
-   
+    Contact				[contact.html]   
