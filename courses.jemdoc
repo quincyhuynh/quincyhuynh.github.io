@@ -1,5 +1,5 @@
-# jemdoc: menu{MENU}{courses.html}, nofooter  
-==Quincy Le Huynh 
+# jemdoc: menu{MENU}{courses.html}, nofooter
+==Quincy Le Huynh
 
 == Graduate Coursework (Berkeley EE 2017-2018)
 
@@ -11,9 +11,9 @@ Fall 2017 | EE 242A | Integrated Circuits for Communications (RFIC) ||
 		  | ENG 231 | Mathematical Methods in Engineering ||
 		  | BIOE 252 | Clinical Need-Based Therapy Solutions ||
           | (GSI) EE 16A  | Discussion Section TA - Graduate Student Instructor ||
-Spring 2018 (Pending) | EE 240B | Advanced Analog Integrated Circuits ||
-			| EE 290P | Advanced Topics In Bioelectronics ||
-            | (GSI) BIOE 101  | Graduate Student Instructor 
+Spring 2018 | EE 240B | Advanced Analog Integrated Circuits ||
+			| EE 290P | Advanced Topics In Bioelectronics - Implantable Medical Devices ||
+            | (GSI) BIOE 101  | Graduate Student Instructor
 ~~~
 
 == Undergraduate Coursework (Berkeley EECS 2014-2017)
@@ -52,5 +52,3 @@ Spring 2017 | EECS 151 | Digital Design and Integrated Circuits ||
 			| ISF 100G | Science, Society, and Ethics ||
 			| IEOR 135 | Applied Data Science with Venture Applications
 ~~~
-
-
