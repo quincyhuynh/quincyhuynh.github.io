@@ -5,12 +5,17 @@
 
 === Masters Research Project
 [https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-42.pdf /Ultra Low Noise Preamplifier Design for Magnetic Particle
-Imaging/]
+Imaging/] - Research Advisor, Professor Steven Conolly
+
+Author: Quincy Huynh
 
 *Abstract:* Diagnostically relevant medical imaging systems require high signal to noise ratio (SNR) for high fidelity. Tracer modalities, such as Magnetic Particle Imaging (MPI), must have high SNR for excellent detection sensitivity. Stem cell scientists and physicians would prefer to see even a single stem cell inside the body, but all conventional whole-body imaging methods today are limited to 10,000-cell sensitivity. Recent publications in Professor Steven Conolly’s lab demonstrated 200-cell sensitivity with MPI, and that was performed without ultra-low noise preamps. In this report, I will present techniques to design an ultra low noise wideband preamplifier for MPI applications, specifically for the arbitrary waveform relaxometer (AWR) used in the Professor Conolly’s Berkeley Imaging Systems Laboratory (BISL). The AWR is used to characterize magnetic particles and optimize MPI drive waveforms for invitro biosensing and in-vivo imaging with MPI. Wideband low noise design requires many considerations, e.g. bandwidth, averaging, and input stage topologies. For each technique presented, I will discuss advantages and disadvantages, thus emphasizing the end goal of designing a wideband preamplifier with the ultimate goal of reaching a possible 1-5 cell sensitivity physical limit for MPI.
 
 === Class Research Projects
-[https://drive.google.com/open?id=1sMbJljlDJQqwLSkBWDa_udAtZ9Se0pTi /Toward the Future: Internet of Things for Medical Implantable Devices/]
+[https://drive.google.com/open?id=1sMbJljlDJQqwLSkBWDa_udAtZ9Se0pTi /Toward the Future: Internet of Things for Medical Implantable Devices/] - EE290P: Implantable Medical Devices, Professor Rikky Muller
+
+
+Authors: Akshay Sreekumar and Quincy Huynh
 
 *Abstract:* The push towards the development of a medical Internet of Things (IoT) has placed further
 demands on the already constrained design spaces for implantable medical devices. The need
