@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{teaching.html}, nofooter  
+==Quincy Le Huynh 
+
+== Beginnings of Teaching
+My first foray into teaching was tutoring at my local library when I was a highschool student, teaching elementary and middle school students math, science and English. I began to tutor more complicated subjects like Precalculus and Calculus toward the end of my high school career.
+
+== Teaching at Cal
+In Fall 2015, I started off as a homework tutor/reader for Electrical Engineering 16A, the introductory EE course at Berkeley. Having just taken the course myself, I felt very underqualified to help out students. However, I came to realize that becoming an educator is as much about learning and solidifying foundational knowledge as it is passing on that knowledge to others with the utmost clarity and patience. 
+
+In Spring 2016 and Fall 2016, I became a full-fledged Teaching Assistant, running my own laboratory section. I taught students how to breadboard and solder circuits. Students learn to build systems that interact with the outside world through physical circuitry and sensors and then process that data digitally using linear algebra and signal processing techniques.
+
+In Spring 2017, I completed a overhaul of the labs for one of my research advisor's courses, Bioengineering 101. BioE 101 is a course on medical instrumentation, requiring electrical engineering knowledge to design and build medical devices like EKGs. I made extensive use of interactive python (Jupyter) notebooks as well as Arduinos, similar to how EE16A used Jupyter notebooks and Texas Instruments' MSP430 Launchpads. With cheap hardware and open source software, students can more easily build and test electronics and truly put theory into practice.
+
+In Fall 2017, I became a discussion/recitation section TA for EE16A, moving away from the lab and into the classroom, where I walked students through concepts discussed in lecture and supplementary practice problems.
+
+In Spring 2018, I became a Graduate Student Instructor for BioE 101, managing lab sessions and course logistics.
+
+== Opinions on Teaching 
+Especially in STEM, I believe that motivating students through cool and practical applications of what they're learning in the classroom is the best way to supplement their learning and answer the age-old student question of "When (How) will I ever use this?"
+
+
+
+

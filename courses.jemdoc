@@ -1,0 +1,62 @@
+# jemdoc: menu{MENU}{courses.html}, nofooter
+==Quincy Le Huynh
+
+== PhD Coursework (Berkeley PhD EECS 2018-Present)
+
+~~~
+{}{table}{grad_courses}
+Semester  | Course Number | Course Name ||
+Fall 2018 | TBD | TBD 
+~~~
+
+== Masters Coursework (Berkeley MS EECS 2017-2018)
+
+~~~
+{}{table}{grad_courses}
+Semester  | Course Number | Course Name ||
+Spring 2018 | EE 240B | Advanced Analog Integrated Circuits ||
+			| EE 290P | Advanced Topics In Bioelectronics - Implantable Medical Devices ||
+            | (GSI) BIOE 101  | Graduate Student Instructor ||
+Fall 2017 | EE 242A | Integrated Circuits for Communications (RFIC) ||
+		  | EE 240C | Analysis and Design of VLSI Analog-Digital Interface Integrated Circuits ||
+		  | ENG 231 | Mathematical Methods in Engineering ||
+		  | BIOE 252 | Clinical Need-Based Therapy Solutions ||
+          | (GSI) EE 16A  | Discussion Section TA - Graduate Student Instructor
+~~~
+
+== Undergraduate Coursework (Berkeley BS EECS 2014-2017)
+~~~
+{}{table}{ugrad_courses}
+Semester  | Course Number | Course Name ||
+Spring 2017 | EECS 151 | Digital Design and Integrated Circuits ||
+			| EECS 151LA | Application Specific Integrated Circuits Laboratory ||
+			| EE 113 | Power Electronics ||
+			| EDUC 182AC | The Politics of Educational Inequality ||
+			| ISF 100G | Science, Society, and Ethics ||
+			| IEOR 135 | Applied Data Science with Venture Applications ||
+Fall 2016 | EE 140 | Analog\/Linear Integrated Circuits ||
+          | BIOE C165\/EE C145B | Medical Imaging Signals and Systems ||
+          | CS 161 | Computer Security ||
+          | MUSIC 158A | Sound and Music Computing ||
+          | (UGSI) EE 16A  | Teaching Assistant ||
+Spring 2016 | BIOE 101 | Instrumentation in Biology and Medicine ||
+		    | CS 70 | Discrete Mathematics and Probability Theory ||
+		    | EE 105 | Microelectronic Devices and Circuits ||
+		    | EE 120 | Signals and Systems ||
+		    | (UGSI) EE 16A  | Teaching Assistant ||
+Fall 2015 | CS 61C | Machine Structures and Computer Architecture ||
+		  | EE 16B | Designing Information Devices and Systems II ||
+		  | CHEM 3B | Organic Chemistry II ||
+		  | BIO 1A | General Biology ||
+		  | IEOR 171 | Technology Firm Leadership ||
+		  | (Reader) EE16A | Tutor/Grader ||
+Spring 2015 | CS 61B | Data Structures and Algorithms ||
+		    | EE 16A | Designing Information Devices and Systems I ||
+		    | Math 54 | Linear Algebra and Differential Equations ||
+		    | CHEM 3A | Organic Chemistry I ||
+		    | MUSIC R1B | Reading and Writing about Music ||
+Fall 2014 | CS 61A | Structure and Interpretation of Computer Programs ||
+          | PHYSICS 7B | Electricity and Magnetism ||
+          | MATH 53  | Multivariable Calculus ||
+          | CHEM 1A | General Chemistry I
+~~~
