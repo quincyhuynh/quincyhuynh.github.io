@@ -1,6 +1,7 @@
 menu
-    About                [index.html]
+    About               [index.html]
+    Consulting          [consulting.html]
 	Teaching			[teaching.html]
     Research            [research.html]
-	Coursework				[courses.html]
+	Coursework			[courses.html]
     Contact				[contact.html]   
