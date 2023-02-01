@@ -1,20 +1,27 @@
-# jemdoc: menu{MENU}{about.html}, nofooter  
+# jemdoc: menu{MENU}{index.html}, nofooter  
 ==Quincy Le Huynh 
 
 ~~~
-{}{img_left}{./photos/quincy4.jpg}{alt text}{213}{320}{http://quincyhuynh.github.io}
-PhD Student, [http://www.eecs.berkeley.edu/ EECS] \n
+{}{img_left}{./photos/team-quincy.png}{alt text}{320}{320}{http://quincyhuynh.github.io}
+PhD Candidate, [http://www.eecs.berkeley.edu/ EECS] \n
 [http://www.berkeley.edu/ University of California, Berkeley]
 
 *E-mail:* quincy.huynh\[at\]eecs\[dot\]berkeley\[dot\]edu
+
+*LinkedIn:* [https://www.linkedin.com/in/quincylehuynh/ Quincy Huynh]
 ~~~
 
 {{<div id="About">}}
 == About
 
-I am a PhD student in the [http://www.eecs.berkeley.edu/ Electrical Engineering and Computer Science] department at [http://www.berkeley.edu/ University of California, Berkeley]. My interests are in radio-frequency and analog circuit design with applications in medical imaging and devices. I currently do research under the guidance of Professor [https://www2.eecs.berkeley.edu/Faculty/Homepages/sconolly.html Steven Conolly] in the BioE/EECS Department.
+I am a PhD candidate in the [http://www.eecs.berkeley.edu/ Electrical Engineering and Computer Science] department at [http://www.berkeley.edu/ University of California, Berkeley]. My interests are in radio-frequency and analog circuit design. I currently do research under the guidance of Professor Steven Conolly in the BioE/EECS Department.
 
-I graduated from UC Berkeley with a M.S in EECS in Spring 2018 and a B.S. in EECS in Spring 2017. My main coursework was in integrated circuits and systems. I spent a large part of my undergraduate career as a teaching assistant, and I've continued to teach as a graduate student instructor.
+My research is primarily in analog front end design for Magnetic Particle Imaging and Magnetic Particle Relaxometry. Some example projects include [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_BFAbiYAAAAJ&citation_for_view=_BFAbiYAAAAJ:roLk4NBRz8UC optimized coil design] and [https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_BFAbiYAAAAJ&citation_for_view=_BFAbiYAAAAJ:u5HHmVD_uO8C ultra low noise preamplifier design].
 
-I'm an amateur ham radio - Callsign: W0SBQ
+I graduated from UC Berkeley with a M.S in EECS in Spring 2018 and a B.S. in EECS in Spring 2017. My main coursework was in integrated circuits and systems. I spent a large part of my undergraduate career as a teaching assistant, and I've continued to teach as a graduate student instructor. 
+
+On the side I do consulting through [https://www.mosaicdesignlabs.com/ Mosaic Design Labs] (see [consulting.html consulting]).
+
+I'm also an amateur ham radio! Callsign: W0SBQ
+
 
